@@ -4,12 +4,14 @@
       "id": 1,
       "firstName": "Ivan",
       "lastName": "Ivanov",
+      "email": "ivanov@test.test",
       "albumId": 1 
     },
     {
       "id": 2,
       "firstName": "Petr",
       "lastName": "Petrov",
+      "email": "petrov@test.test",
       "albumId": 2
     }
   ],
