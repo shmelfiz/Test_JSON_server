@@ -13,5 +13,17 @@
       "lastName": "Petrov",
       "albumId": 2
     }
-  ]
+  ],
+  "albums": [
+    { 
+      "id": 1,
+      "userId": 1,
+      "title": "Ivanov" 
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Petrov",
+    }
+  ],
 }
