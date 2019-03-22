@@ -1,4 +1,3 @@
-
 {
   "users": [
     { 
@@ -23,7 +22,7 @@
     {
       "id": 2,
       "userId": 2,
-      "title": "Petrov",
+      "title": "Petrov"
     }
   ]
 }
