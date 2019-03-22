@@ -1,3 +1,14 @@
-{
-  "hello_world": {"asd": 1}
-}
+[
+  { 
+    "id": 1,
+    "firstName": "Ivan",
+    "lastName": "Ivanov",
+    "albumId": 1 
+  },
+  {
+    "id": 2,
+    "firstName": "Petr",
+    "lastName": "Petrov",
+    "albumId": 2
+  }
+]
